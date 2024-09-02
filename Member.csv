@@ -1,0 +1,23 @@
+CustomerID,CompanyName,Address,Gender,Region,Country,ContactName,Occuption,Salary,City
+ALFKI,Alfreds Futterkiste,Obere Str. 57,-,-,Germany,Maria Anders,Sales Representative,0,Berlin
+BLAUS,Blauer See Delikatessen,Forsterstr. 57,-,-,Germany,Hanna Moos,Sales Representative,0,Mannheim
+BLONP,Blondesddsl p?re et fils,24 place Kl?ber,-,-,France,Fr?d?rique Citeaux,Marketing Manager,0,Strasbourg
+BONAP,Bon app',12 rue des Bouchers,-,-,France,Laurence Lebihan,Owner,0,Marseille
+DRACD,Drachenblut Delikatessen,Walserweg 21,-,-,Germany,Sven Ottlieb,Order Administrator,0,Aachen
+DUMON,Du monde entier,67 rue des Cinquante Otages,-,-,France,Janine Labrune,Owner,0,Nantes
+FOLIG,Folies gourmandes,184 chauss?e de Tournai,-,-,France,Martine Ranc?,Assistant Sales Agent,0,Lille
+FRANK,Frankenversand,Berliner Platz 43,-,-,Germany,Peter Franken,Marketing Manager,0,M?nchen
+FRANR,France restauration,54 rue Royale,-,-,France,Carine Schmitt,Marketing Manager,0,Nantes
+KOENE,K?niglich Essen,Maubelstr. 90,-,-,Germany,Philip Cramer,Sales Associate,0,Brandenburg
+LACOR,La corne d'abondance,67 avenue de l'Europe,-,-,France,Daniel Tonini,Sales Representative,0,Versailles
+LAMAI,La maison d'Asie,1 rue Alsace-Lorraine,-,-,France,Annette Roulet,Sales Manager,0,Toulouse
+LEHMS,Lehmanns Marktstand,Magazinweg 7,-,-,Germany,Renate Messner,Sales Representative,0,Frankfurt a.M.
+MORGK,Morgenstern Gesundkost,Heerstr. 22,-,-,Germany,Alexander Feuer,Marketing Assistant,0,Leipzig
+OTTIK,Ottilies K?seladen,Mehrheimerstr. 369,-,-,Germany,Henriette Pfalzheim,Owner,0,K?ln
+PARIS,Paris sp?cialit?s,265 boulevard Charonne,-,-,France,Marie Bertrand,Owner,0,Paris
+QUICK,QUICK-Stop,Taucherstra?e 10,-,-,Germany,Horst Kloss,Accounting Manager,0,Cunewalde
+SPECD,Sp?cialit?s du monde,25 rue Lauriston,-,-,France,Dominique Perrier,Marketing Manager,0,Paris
+TOMSP,Toms Spezialit?ten,Luisenstr. 48,-,-,Germany,Karin Josephs,Marketing Manager,0,M?nster
+VICTE,Victuailles en stock,2 rue du Commerce,-,-,France,Mary Saveley,Sales Agent,0,Lyon
+VINET,Vins et alcools Chevalier,59 rue de l'Abbaye,-,-,France,Paul Henriot,Accounting Manager,0,Reims
+WANDK,Die Wandernde Kuh,Adenauerallee 900,-,-,Germany,Rita M?ller,Sales Representative,0,Stuttgart

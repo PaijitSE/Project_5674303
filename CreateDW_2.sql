@@ -10,7 +10,6 @@ CREATE TABLE [dbo].[DimProduct](
 	[ProductKey] [int] NOT NULL,
 	[ProductName] [nchar](100) NULL,
 	[CategoryName] [nchar](100) NULL,
-	[Brand] [nchar](50) NULL,
 	[Size] [nchar](50) NULL,
 	[ProductColor] [nchar](30) NULL,
 	[Model] [nchar](50) NULL
